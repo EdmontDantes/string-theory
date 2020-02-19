@@ -78,15 +78,15 @@ for (i = 0; i < str.length; i++) {
 function titleCase(str) {  
   let answer = '';
 
-for (let i=0; i<str.length; i++){
-  if(i = 0) {
-    str.toUpperCase();
-  } else if ()
-    output += ch.toLowerCase()
-  }else{
-    output += ch.toUpperCase()
-  }
-}
+// for (let i=0; i<str.length; i++){
+//   if(i = 0) {
+//     str.toUpperCase();
+//   } else if ()
+//     output += ch.toLowerCase()
+//   }else{
+//     output += ch.toUpperCase()
+//   }
+// }
 return output
 }
 
